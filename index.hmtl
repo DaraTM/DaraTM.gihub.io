@@ -1,12 +1,10 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, inital-scale=1" />
-    <title>Music Controller</title>
-  </head>
-  <body>
-    <div id="main">
-    </div>
-  </body>
+<head>
+    <title>My GitHub Page</title>
+</head>
+<body>
+    <h1>Hello, GitHub Pages!</h1>
+    <p>This is a sample HTML page hosted on my GitHub Pages.</p>
+</body>
 </html>
